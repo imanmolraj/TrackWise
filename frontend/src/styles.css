@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.card{ @apply bg-card rounded-2xl p-5 shadow-soft; }
+.btn{ @apply bg-accent text-bg font-semibold px-4 py-2 rounded-xl hover:scale-[1.02] transition; }
+.input{ @apply w-full bg-[#0e1630] text-ink border border-[#2c3966] rounded-xl px-3 py-2 focus:outline-none; }
+.pill{ @apply inline-block px-3 py-1 rounded-full bg-[#0e1630] border border-[#2c3966] text-sm; }
+.table{ @apply w-full; }
+.table th,.table td{ @apply text-left py-2 px-3 border-b border-[#243059]; }
