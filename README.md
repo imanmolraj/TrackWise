@@ -1,7 +1,7 @@
-# TrackWise
 
 
-# 📊 TrackWise — Personal Finance Dashboard
+
+# 📊 FinWise — Personal Finance Dashboard
 
 TrackWise is a **full-stack finance tracking application** built with **React + Vite (frontend)** and **Flask + SQLite (backend)**.  
 It helps users **track expenses, manage budgets, visualize spending trends, and stay in control of their finances.**
